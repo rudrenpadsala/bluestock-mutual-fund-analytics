@@ -1,4 +1,4 @@
-# 📊 Bluestock Mutual Fund Analytics
+#  Bluestock Mutual Fund Analytics
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ The objective is to build a complete Mutual Fund Analytics platform that perform
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -63,7 +63,7 @@ mutual_fund_analytics/
 
 ---
 
-## 📌 Project Tasks
+##  Project Tasks
 
 ### Day 1 – Data Ingestion
 
@@ -104,7 +104,7 @@ mutual_fund_analytics/
 
 ---
 
-## 🔍 Key Analysis
+##  Key Analysis
 
 * Top Funds by AUM
 * Average NAV Trends
@@ -178,7 +178,7 @@ python scripts/load_sqlite.py
 
 ---
 
-## 📊 Future Enhancements
+##  Future Enhancements
 
 * Power BI Dashboard
 * Risk Analytics Dashboard
